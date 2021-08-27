@@ -1,7 +1,7 @@
 # Halo semua! 
 Perkenalkan nama saya **Yudha Yunanto Putra**.\
 Saya seorang **Mahasiswa** Sistem Informasi dari [UPN "Veteran" Jawa Timur](https://www.upnjatim.ac.id/en/).\
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/yudha-yunanto-7ab124198/) ku ya.
+Saya seorang developer yang tertarik dengan pemrograman website dan mobile.
  
 <p align="left">
 <a href="https://github.com/yudhayunantop">
