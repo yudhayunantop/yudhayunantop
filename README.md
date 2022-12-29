@@ -27,7 +27,7 @@ Currently concentration about mobile development specifically kotlin, but I love
 <p>
     <a href="https://www.linkedin.com/in/yudha-yunanto-7ab124198/" target="blank"><img src="https://img.shields.io/badge/Linkedin-30302f?style=flat&logo=linkedin" /></a>
     <a href="mailto:yudha.yunanto,2010@gmail.com" target="blank"><img src="https://img.shields.io/badge/Email_-30302f?style=flat&logo=gmail" /></a>
-    <a href="https://www.instagram.com/yudhayunantop/" target="blank"><img src="https://img.shields.io/badge/Instagram-30302f?style=flat&logo=instagram" /></a>
+    <a href="https://www.instagram.com/yudhayunanto/" target="blank"><img src="https://img.shields.io/badge/Instagram-30302f?style=flat&logo=instagram" /></a>
 </p>
 
 <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api?username=yudhayunantop&show_icons=true&theme=radical" />
