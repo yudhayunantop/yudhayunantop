@@ -18,7 +18,7 @@ Currently concentration about mobile development specifically kotlin, but I love
 ### Stats:
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
-    - 🎓 I'm graduated from UPN "Veteran" Jawa Timur
+    - 🎓 I'm graduated from UPN "Veteran" Jawa Timur </br>
     - 🔭 I’m currently work at PT Citra Nusantara Energi as Android Developer </br>
     - 🌱 I’m currently learning kotlin, PHP</br>
     - 😄 Pronouns: He/Him </br>
